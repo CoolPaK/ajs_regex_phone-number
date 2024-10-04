@@ -1,6 +1,6 @@
 AJS_Regex_Phone-number
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/78a2kl2ftlfctniq?svg=true)](https://ci.appveyor.com/project/CoolPaK/ajs-regex-phone-number)
 ---
 ## Домашнее задание к лекции «Регулярные выражения»
 
