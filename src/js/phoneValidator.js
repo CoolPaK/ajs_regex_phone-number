@@ -1,4 +1,3 @@
 export function validator(str) {
-    str = str.replace(/[\s()-]/g, '')
-    return str.replace(/^\8/g, '+7')
+   return str.replace(/[\s()-]/g, '').replace(/^\8/g, '+7');
 }
